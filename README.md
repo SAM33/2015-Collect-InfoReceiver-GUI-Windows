@@ -1,6 +1,8 @@
 collectl info receiver GUI-Version for windows users <br/>
 For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
 <br/>
+<br/>
+STEPS:<br/>
 1.Install collectl
 <br/>
 sudo apt-get install collectl
