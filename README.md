@@ -1,4 +1,5 @@
 collectl info receiver GUI-Version for windows users <br/>
+Before use , please install mingw and make sure the command "g++" can be found in command line!<br/>
 For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
 <br/>
 <br/>
@@ -11,9 +12,9 @@ sudo apt-get install collectl
 <br/>
 cd collectl info receiver(GUI-Version) folder
 <br/>
-WindowsMakeClean.bat
+run WindowsMakeClean.bat
 <br/>
-WindowsMake.bat
+run WindowsMake.bat
 <br/><br/>
 3.Start collectl info receiver GUI-Version
 <br/>
