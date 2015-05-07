@@ -1,4 +1,5 @@
-collectl info receiver GUI-Version
+collectl info receiver GUI-Version for windows users
+For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
 <br/>
 1.Install collectl
 <br/>
@@ -42,4 +43,4 @@ collectl -A [ip you just got]:4003 -scmn -P
 <br/><br/>
 6.look at terminal to control this program
 <br/><br/>
-Linux : This program base on freeglut3-dev
+
