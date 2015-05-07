@@ -9,7 +9,7 @@ sudo apt-get install collectl
 <br/><br/>
 2.Make collectl info receiver GUI-Version in The monitor's computer
 <br/>
-cd <collectl info receiver(GUI-Version) folder>
+cd collectl info receiver(GUI-Version) folder
 <br/>
 WindowsMakeClean.bat
 <br/>
