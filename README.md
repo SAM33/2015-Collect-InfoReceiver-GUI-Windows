@@ -3,23 +3,23 @@ For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
 <br/>
 <br/>
 STEPS:<br/>
-1.Install collectl
+1.Install collectl in the system you want to keep watch on
 <br/>
 sudo apt-get install collectl
 <br/><br/>
-2.Make collectl info receiver GUI-Version
+2.Make collectl info receiver GUI-Version in The monitor's computer
 <br/>
 cd <collectl info receiver(GUI-Version) folder>
 <br/>
-make clean
+WindowsMakeClean.bat
 <br/>
-make
+WindowsMake.bat
 <br/><br/>
 3.Start collectl info receiver GUI-Version
 <br/>
-./main_release
+main_release.exe
 <br/><br/>
-4.run collectl in the system you want to monitor, for example:
+4.run collectl in the system you want to keep watch on, for example:
 <br/>
 collectl -A [ip you just got]:4000 -scmn -P
 <br/>
