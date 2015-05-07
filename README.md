@@ -1,4 +1,4 @@
-collectl info receiver GUI-Version for windows users
+collectl info receiver GUI-Version for windows users <br/>
 For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
 <br/>
 1.Install collectl
