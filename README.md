@@ -1,3 +1,5 @@
+目前好像有BUG，請先勿使用。
+<br/>
 collectl info receiver GUI-Version for windows users <br/>
 Before use , please install mingw and make sure the command "g++" can be found in command line!<br/>
 For Linux or Mac users : https://github.com/SAM33/infoReceiver-guiversion
