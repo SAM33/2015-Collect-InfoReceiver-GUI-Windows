@@ -1,4 +1,7 @@
+<h1>
 目前好像有BUG，請先勿使用。
+</h1>
+<br/>
 <br/>
 collectl info receiver GUI-Version for windows users <br/>
 Before use , please install mingw and make sure the command "g++" can be found in command line!<br/>
